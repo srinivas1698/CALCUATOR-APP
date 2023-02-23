@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">श्रीनिवास राव चव्हाण द्वारा बंधक कैलकुलेटर</string>
+    <string name="enter_principle">सिद्धांत दर्ज करें (₹):</string>
+    <string name="rateLabel">ब्याज दर: %.1f%%</string>
+    <string name="select_loan_term">ऋण अवधि का चयन करें</string>
+    <string name="_15_years">15 साल</string>
+    <string name="_20_years">20 साल</string>
+    <string name="_30_years">30 साल</string>
+    <string name="prompt">मासिक भुगतान के लिए  की गणना दबाएं</string>
+    <string name="monthlyResult">मासिक भुगतान: %s</string>
+    <string name="error_empty">कृपया सिद्धांत दर्ज करें फिर %s</string>
+    <string name="error_digits">कृपया एक सही संख्या डालिये। 2 दशमलव अंक अधिकतम फिर %s</string>
+    <string name="error">अमान्य निवेश!</string>
+    <string name="limit_exceeded">कृपया 1000000 से कम मान दर्ज करें</string>
+    <string name="calculate">की गणना</string>
+    <string name="uninstall">स्थापना रद्द करें</string>
+    <string name="language">भाषा</string>
+    <string name="include_taxes_and_insurance_0_1">कर शामिल करें &amp; बीमा (0.1%)</string>
+</resources>
